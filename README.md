@@ -1,6 +1,6 @@
-# OA-SATHI backend
+# Osteofore backend
 
-Inference API for the OA-SATHI knee X-ray screening tool.
+Inference API for the Osteofore knee X-ray screening tool.
 
 ## Run locally
 
